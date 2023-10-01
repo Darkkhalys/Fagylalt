@@ -1,0 +1,22 @@
+body{
+    max-width: 1023px;
+    margin: auto;
+    background-color: pink;
+    color: aqua;
+}
+
+#footer{
+    background-color: purple;
+    color: aquamarine;
+
+}
+
+img{
+    max-height: 500px;
+}
+
+main{
+    
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
